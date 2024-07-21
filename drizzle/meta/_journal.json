@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1721054344922,
+      "tag": "0000_shallow_ghost_rider",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1721054411198,
+      "tag": "0001_confused_major_mapleleaf",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1721217366170,
+      "tag": "0002_mixed_rumiko_fujikawa",
+      "breakpoints": true
+    }
+  ]
+}
